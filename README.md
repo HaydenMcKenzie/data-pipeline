@@ -3,9 +3,9 @@
 Create a pipeline that ingests, processes, and outputs data in a scalable manner
 
 ## Tools
-Python
-SQL
-Apache Airflow
+Python,
+SQL,
+Apache Airflow,
 Docker
 
 ## Steps
